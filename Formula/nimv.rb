@@ -7,7 +7,6 @@ class Nimv < Formula
   
   depends_on "git"
   depends_on "curl"
-  depends_on "choosenim"
 
   def install
     bin.install "nimv.sh" => "nimv"
