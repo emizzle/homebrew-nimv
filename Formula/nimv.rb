@@ -1,9 +1,9 @@
 class Nimv < Formula
   desc "Simple nim version manager"
   homepage "https://github.com/emizzle/nimv"
-  url "https://github.com/emizzle/nimv/archive/v0.0.1.tar.gz"
-  sha256 "d61ba2999be565be19d4145977718cadfdcc0eb9c677e79230127c528b09d7f7"
-  version "0.0.1"
+  url "https://github.com/emizzle/nimv/archive/0.0.2.tar.gz"
+  sha256 "f86972b4012fe3dd6734f0c90d63cd630a7605079e70e8009794ff0ea6d56022"
+  version "0.0.2"
   
   depends_on "git"
   depends_on "curl"
